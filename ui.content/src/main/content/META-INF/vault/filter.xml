@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/c4e-reference-site" mode="merge"/>
+    <filter root="/content/c4e-reference-site" mode="merge"/>
+    <filter root="/content/dam/c4e-reference-site" mode="merge"/>
+    <filter root="/content/experience-fragments/c4e-reference-site" mode="merge"/>
+</workspaceFilter>
