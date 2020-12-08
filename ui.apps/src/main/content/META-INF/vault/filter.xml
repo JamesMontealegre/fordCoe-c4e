@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/c4e-reference-site/clientlibs"/>
+    <filter root="/apps/c4e-reference-site/components"/>
+    <filter root="/apps/c4e-reference-site/i18n"/>
+</workspaceFilter>

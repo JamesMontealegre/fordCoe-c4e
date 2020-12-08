@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/css/main.e57bbe8a.chunk.css",
+    "main.js": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/main.3e25ef0b.chunk.js",
+    "main.js.map": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/main.3e25ef0b.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/runtime-main.41b7d852.js",
+    "runtime-main.js.map": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/runtime-main.41b7d852.js.map",
+    "static/js/2.363f4692.chunk.js": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/2.363f4692.chunk.js",
+    "static/js/2.363f4692.chunk.js.map": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/2.363f4692.chunk.js.map",
+    "index.html": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/index.html",
+    "precache-manifest.553b7e7aa98a0c4faf89d45bdc9957a6.js": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/precache-manifest.553b7e7aa98a0c4faf89d45bdc9957a6.js",
+    "service-worker.js": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/service-worker.js",
+    "static/css/main.e57bbe8a.chunk.css.map": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/css/main.e57bbe8a.chunk.css.map",
+    "static/js/2.363f4692.chunk.js.LICENSE.txt": "/etc.clientlibs/c4e-reference-site/clientlibs/clientlib-react/resources/static/js/2.363f4692.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b7d852.js",
+    "static/js/2.363f4692.chunk.js",
+    "static/css/main.e57bbe8a.chunk.css",
+    "static/js/main.3e25ef0b.chunk.js"
+  ]
+}
