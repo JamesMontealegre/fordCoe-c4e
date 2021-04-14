@@ -33,6 +33,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Content Image"
                     sling:resourceType="wcm/core/components/policy/policy"
+                    enableDmFeatures="true"
                     allowedRenditionWidths="[320,480,600,800,1024,1200,1600]"
                     disableLazyLoading="false"
                     allowUpload="false"
@@ -240,7 +241,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Page Content"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    components="[group:C4E Reference Site - Content,/apps/c4e-reference-site/components/form/container]">
+                    components="[group:Dynamic Media,group:C4E Reference Site - Content,group:C4E Reference Site - Forms,/apps/c4e-reference-site}/components/form/container]">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                     <cq:authoring jcr:primaryType="nt:unstructured">
                         <assetToComponentMapping jcr:primaryType="nt:unstructured">
@@ -278,7 +279,7 @@
                     jcr:primaryType="nt:unstructured"
                     jcr:title="XF Root"
                     sling:resourceType="wcm/core/components/policy/policy"
-                    components="[group:C4E Reference Site - Content,/apps/c4e-reference-site/components/form/container]">
+                    components="[group:C4E Reference Site - Content,group:C4E Reference Site - Forms,/apps/c4e-reference-site/components/form/container]">
                     <jcr:content jcr:primaryType="nt:unstructured"/>
                     <cq:authoring jcr:primaryType="nt:unstructured">
                         <assetToComponentMapping jcr:primaryType="nt:unstructured">
